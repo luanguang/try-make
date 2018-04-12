@@ -1,6 +1,7 @@
 {
     "name": "luanguang/try-make",
     "description": "try make a package",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
