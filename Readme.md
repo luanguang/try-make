@@ -1,9 +1,5 @@
 尝试写一个包，了解一下composer，并且尝试上传到github上面,以及使用
-
     composer require luanguang/try-make
-        
-#过程：
-___
 ####使用composer进行初始化操作，也就是composer init 如下composer.json
     {
         "name": "luanguang/try-make",
